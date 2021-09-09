@@ -50,7 +50,6 @@ cbu03.alicdn.com
 cbu04.alicdn.com
 
 # baidu
-*.baidu.com
 # img*.bdimg.com
 img0.bdimg.com
 img1.bdimg.com
